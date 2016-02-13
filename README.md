@@ -23,9 +23,9 @@ API docs available at http://localhost:3000/apidocs in development/staging mode
 ### Additional Resources
 
 * [Repository](https://github.com/boo1ean/wtftm)
+* [General documentation](https://docs.google.com/document/d/1aembq_9q9I7zgfOyW5pQdtgtJyYg-_AaJUbVLHrr57U/edit)
 * [Bug tracker (Jira)](https://enter_bug_tracking_system_address_here)
 * [Continuous integration](https://enter_continuous integration_system_address_here)
-* [General documentation](https://enter_documentaion_system_address_here)
 * If you do not hear back within a reasonable time feel free to send an email to Egor Gumenyuk <boo1ean0807@gmail.com>
 
 

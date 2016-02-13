@@ -1,0 +1,13 @@
+bower_components
+node_modules
+.DS_Store
+.vagrant
+*.log
+dump.rdb
+nohup.out
+
+docs/api
+docs/coverage
+
+.idea
+log/*

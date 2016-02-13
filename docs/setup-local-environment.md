@@ -1,7 +1,8 @@
 ## How to setup developer environment
+Just run `npm run happy` or read instruction bellow how setup env manually
 
 ### Setup software for development
-* Make sure your system updated `sudo apt-get update; sudo apt-get upgrade`
+* Make sure your system updated `sudo apt-get update; sudo apt-get upgrade;`
 * Setup software `sudo apt-get install g++ make git nodejs npm redis-server redis-tools` (For system exclude debian based you must install node instead nodejs)
 * Check software `service mongodb status; node -v; git;`
 * Setup npm hosted software globally `sudo npm install -g gulp bower pm2 nodemon`

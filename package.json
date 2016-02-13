@@ -1,8 +1,10 @@
 {
-  "name": "node-redux-boiler",
-  "version": "0.0.0",
-  "description": "Node + redux + react boilerplate",
+  "name": "wtftm",
+  "version": "0.0.1",
+  "description": "Jira next generation!",
+  "private": true,
   "author": "Egor Gumenyuk <boo1ean0807@gmail.com>",
+  "repository": "git@github.com:boo1ean/wtftm.git",
   "license": "MIT",
   "scripts": {
      "start": "NODE_ENV=development node bin/dev-server.js",
